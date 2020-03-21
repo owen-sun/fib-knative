@@ -10,4 +10,4 @@ spec:
       revisionTemplate:
         spec:
           container:
-            image: docker.io/ibmcom/fib-knative
+            image: docker.io/owensun/fib-knative
